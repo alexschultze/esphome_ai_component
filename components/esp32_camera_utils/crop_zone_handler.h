@@ -1,7 +1,7 @@
 #pragma once
 
 #include "esphome/core/component.h"
-#include "esphome/components/globals/globals_component.h"
+#include "esphome.h"
 #include <vector>
 #include <string>
 #include <functional>
