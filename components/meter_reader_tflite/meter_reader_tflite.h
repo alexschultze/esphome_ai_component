@@ -1,13 +1,8 @@
 #pragma once
 
 #include "esphome/core/component.h"
-#include "esphome/components/camera/camera.h"
+#include "esphome.h"
 // #include "esphome/components/esp32_camera/esp32_camera.h"
-#include "esphome/components/sensor/sensor.h"
-#include "esphome/components/text_sensor/text_sensor.h"
-#include "esphome/components/button/button.h"
-#include "esphome/components/light/light_state.h"
-#include "esphome/components/globals/globals_component.h"
 #include "esphome/core/helpers.h"
 
 // Coordinators
