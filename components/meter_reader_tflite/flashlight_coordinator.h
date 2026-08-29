@@ -5,7 +5,7 @@
 #ifdef USE_METER_READER_TFLITE
 
 #include "esphome/core/component.h"
-#include "esphome/components/light/light_state.h"
+#include "esphome.h"
 
 #ifdef USE_FLASH_LIGHT_CONTROLLER
 #include "esphome/components/flash_light_controller/flash_light_controller.h"
